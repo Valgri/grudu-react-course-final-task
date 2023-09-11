@@ -16,20 +16,9 @@
       "text": "Describe your relationship with JavaScript with one word."
     },
     {
-      "text": "dfsdfdsf",
-      "id": "FlhDDxT"
-    },
-    {
-      "text": "dfsdfdsf",
-      "id": "p_1ixZv"
-    },
-    {
-      "text": "dfsdfdsffgdfg",
-      "id": "bMmC_kC"
-    },
-    {
-      "text": "ghkgjjg",
-      "id": "mwrWUI0"
+      "text": "asdasd dfhgf hfgh fgh",
+      "author_id": "John Smith",
+      "id": "PUKU7M6"
     }
   ],
   "users": [
@@ -47,24 +36,6 @@
       "id": "ameliawarner",
       "name": "Amelia Warner",
       "email": "ameliawarner@yahoo.com"
-    },
-    {
-      "email": "myemail@my.com",
-      "password": "h8euYbVep^hWi6@6",
-      "fullName": "Valerii",
-      "id": "yyfDFJk"
-    },
-    {
-      "email": "myemail@my.com",
-      "password": "h8euYbVep^hWi6@6",
-      "fullName": "Valerii",
-      "id": "c1Kbkg0"
-    },
-    {
-      "email": "j1ohnsmith@gmail.com",
-      "password": "12345678",
-      "fullName": "Smite",
-      "id": "9m_6Mub"
     }
   ]
 }
